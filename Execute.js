@@ -1,6 +1,6 @@
 //Need text property 'message'
 
-var apiURL = "https://hooks.slack.com/services/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";
+var apiURL = "!TODO!";
  
 //APIを叩く際のパラメータ
 //プロパティの値を渡す
